@@ -1,0 +1,34 @@
+page 11 add slide
+page 12 add step 6
+page 21 add slide
+page 22 add slide
+page 23 add what is tuniot
+page 26 add IN/OUT pic
+page 32 add download link of arduino ide and what is serial monitor
+page 35 add slide
+page 36 change step no to 8
+
+
+	Page 3-add-pictuers
+	Page 4 - Add - Definition of NodeMCU etc	
+	Page 5 - Add - Flowchart
+	Page 7 - Add - Steps for creating widget in thingspeak
+
+page-12-add-'go back to "designer''
+	Page 15 - Final layout of app edited (OFF button added)
+	page-16-add-"build"option and add step 6
+page-18-mention the 'IOT'option for disconect and "station" also.similarly for others.
+
+Page-21-mention "in/out"option in words.
+page-22-add deleting option for 'thingskey' part
+	Page 24 - replace "API key" with "Read API Key"
+page-24-replace "channel number"with "channel ID" & mention the places for the information properly
+
+page-26-mention the process for "else if" in words.(exceptional)
+	Page 27 - Add - Download link of Arduino IDE and definition of Serial Monitor
+	Page 29 - Add - Thingspeak Library install in Arduino IDE
+
+
+
+
+
